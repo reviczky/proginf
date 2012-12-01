@@ -1,0 +1,4 @@
+proginf
+=======
+
+Programtervező Informatikus
